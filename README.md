@@ -1,42 +1,45 @@
 # Facebook Page Management
 
-This repository showcases my work on **Facebook Page Optimization, Content Creation, and Promotion** (both organic and paid).  
-It includes before-and-after results, creative samples, and performance reports to highlight how I help businesses grow on Facebook.
+This repository showcases my **Facebook Promotion & Growth Case Study**.  
+I worked on a 6-month project where the goal was to **increase page followers and engagement** through both **organic and paid promotion**.  
 
 ---
 
-## 📌 Services Covered
-- ✅ Page Optimization (Profile setup, branding, and settings)  
-- ✅ Content Creation (Posts, Carousels, Reels)  
-- ✅ Organic Growth (Engagement strategies, community building)  
-- ✅ Paid Promotions (Targeted Ads, A/B testing, ROI tracking)  
+## 📌 Project Overview
+- **Project Duration:** 6 Months  
+- **Promotion Type:** Organic + Paid  
+- **Paid Budget:** $200/month  
+- **Goal:** Increase page followers & community growth  
 
 ---
 
-## 📊 Before & After Results
-Here are some examples of growth achieved through my strategies:  
+## 📊 Followers Growth
 
-| Metric            | Before | After  |
-|--------------------|--------|--------|
-| Page Likes         | 1,200  | 3,800  |
-| Post Reach         | 5,000  | 25,000 |
-| Engagement Rate    | 2%     | 7%     |
-| Leads Generated    | 0      | 150+   |
+| Month      | Followers (Approx.) | Growth  |
+|------------|----------------------|---------|
+| March 2024 | 37                   | —       |
+| April 2024 | 2,100                | +2,063  |
+| May 2024   | 5,500                | +3,400  |
+| June 2024  | 9,200                | +3,700  |
+| July 2024  | 12,500               | +3,300  |
+| August 2024| 16,300               | +3,800  |
 
-> 📂 See detailed screenshots in the **/screenshots/** folder.  
+📈 **From 37 to 16.3K followers in just 6 months** through consistent promotion strategies.  
 
----
-
-## 📁 Case Studies
-- **FitFlare Enterprise** – Increased page engagement by 300% in 2 months.  
-- **Local Boutique** – Generated 150+ leads with a $200 ad spend.  
-
-> 📂 Detailed reports available in the **/reports/** folder.  
+> 📂 See screenshots in the **/screenshots/** folder.  
+> 📂 Growth chart available in the **/charts/** folder.  
 
 ---
 
 ## 🎨 Creative Samples
-Check the **/creatives/** folder for post designs, carousels, and reels.  
+Some sample post designs and creatives used during the promotion.  
+> 📂 Available in the **/creatives/** folder.  
+
+---
+
+## 📁 Reports
+Detailed growth reports, charts, and analytics.  
+> 📂 Available in the **/reports/** folder.  
 
 ---
 
@@ -52,5 +55,3 @@ Check the **/creatives/** folder for post designs, carousels, and reels.
 - **Email:** anowaritpro@gmail.com  
 - **Linktree:** [linktr.ee/a4anowar](https://linktr.ee/a4anowar)  
 - **LinkedIn:** [linkedin.com/in/a4anowar](https://linkedin.com/in/a4anowar)  
-
----
